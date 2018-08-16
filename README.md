@@ -1,5 +1,8 @@
 # Abc
 
+# npm install then :
+npm install typescript@next --save
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10.
 
 ## Development server
